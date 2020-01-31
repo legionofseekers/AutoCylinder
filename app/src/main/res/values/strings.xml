@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoCylinder</string>
+    <string name="messageText">Message</string>
+    <string name="messageHint">Enter a Message</string>
+    <string name="sendText">Send</string>
+    <string name="valueText">Value</string>
+</resources>

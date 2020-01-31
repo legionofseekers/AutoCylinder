@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969943079910",
+    "firebase_url": "https://autocylinder.firebaseio.com",
+    "project_id": "autocylinder",
+    "storage_bucket": "autocylinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969943079910:android:62ef62db65b3a9d2c99427",
+        "android_client_info": {
+          "package_name": "com.example.autocylinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969943079910-228b22at0r9c3qm41nrnmoml3d0er5hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autocylinder",
+            "certificate_hash": "42e1473af7fb489fe5214adf05de50b61e5c1d28"
+          }
+        },
+        {
+          "client_id": "969943079910-pf5hnt5e0ev05p1bf3kshiv73gqb3h8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgipAbTiwlwrP1LzD0DOOISjg7QTE8DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969943079910-pf5hnt5e0ev05p1bf3kshiv73gqb3h8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
